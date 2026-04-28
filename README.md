@@ -1,4 +1,4 @@
-### Hey, I'm Average_High 👋
+### Hey, I'm AVG_High 👋
 
 Builder exploring the intersection of **AI** and **real-world products**.
 
